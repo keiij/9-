@@ -55,24 +55,26 @@ main{
 @media screen and (max-width:768px){
   main{
     width:300px;
+    padding-top: 50px;
+    margin:0 auto;
   }
 
-  p{
-    
-  }
+ 
 
   .step-box{
-    width:300px;
+    width:90%;
     float:none;
-    margin-bottom: 20px;
+    margin: 0 auto 20px auto;
   }
 
   .step-img1{
     margin-bottom: 20px;
+    padding:0 5%;
   }
 
   .step-img2{
     margin-bottom: 20px;
+    padding:0 5%;
   }
 
   .step-img3{
